@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A faithful account of the sickness, death, &amp; burial of Capt. William Bedlow, who dyed August the 20th. and was buried August the 22d. 1680 With many other circumstances thereunto relating. Taken from the testimony of his vvife, and many other of his friends who constantly attended him in his sickness. In a letter from an intelligent person in Bristol, to his friend in London.</title>
+            <author>T. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58706</idno>
+            <idno type="STC">Wing S160A</idno>
+            <idno type="STC">ESTC R222352</idno>
+            <idno type="EEBO-CITATION">99833533</idno>
+            <idno type="PROQUEST">99833533</idno>
+            <idno type="VID">38010</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38010)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2216:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A faithful account of the sickness, death, &amp; burial of Capt. William Bedlow, who dyed August the 20th. and was buried August the 22d. 1680 With many other circumstances thereunto relating. Taken from the testimony of his vvife, and many other of his friends who constantly attended him in his sickness. In a letter from an intelligent person in Bristol, to his friend in London.</title>
+                  <author>T. S.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Reprinted,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T.S.</note>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing. "Reprinted" from colophon.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bedloe, William, 1650-1680 --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38010:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>A FAITHFUL ACCOUNT OF THE SICKNESS, DEATH, &amp; BURIAL OF C<hi rend="sup">apt.</hi> William Bedlow, Who Dyed <date>Auguſt the 20th.</date> and was Buried <date>Auguſt the 22 d.1680.</date> With many other Circumſtances thereunto Relating. Taken from the Teſtimony of his VVife, and many other of his Friends who conſtantly attended him in his Sickneſs.</head>
+            <head type="sub">In a Letter from an Intelligent Perſon in <hi>Briſtol,</hi> to his Friend in <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+               <dateline>Briſtol <date>Aug. 23. 1680.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y Obligations to your ſelf, and deſire of ſecuring Truth from the Out: rages of ill men, eſpecially when the Publick is concern'd, have prevail'd with me to give you a ſhort Account of the Sickneſs and Death of Captain <hi>Bedlow.</hi> On <hi>Munday</hi> the 9th. day of this Inſtant, he came very ill from <hi>London,</hi> having the Head-ach, and an extream Looſneſs moſt part of that day, the next day after
+<pb n="2" facs="tcp:38010:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 14 -->he came home, he was ſeized with a moſt violent Vomiting and Looſneſs; Phyſicians were ſent for, who attended him two or three days; but his Diſtemper encreaſing, on <hi>Thurſday</hi> two other Phyſicians were joyn'd in Conſultation about him; his diſeaſe ſtill grew upon him, and he being very apprehenſive that it would iſ<g ref="char:EOLhyphen"/>ſue in his Death, and underſtanding that the Lord Chief Juſtice <hi>North</hi> would be here to hold the Aſſizes the 16th inſtant, expreſ<g ref="char:EOLhyphen"/>ſed a very great deſire to ſpeak with his Lordſhip for diſcharging of his Conſcience, in depoſing ſome what which he had not before diſ<g ref="char:EOLhyphen"/>cloſed; with which his Lordſhip being made acquainted, was pleaſed that night at his requeſt to go to him; before whom he did by many repeated Aſſeverations, upon the words of a dying man, declare, That in all the great buſineſs of the P<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot he ſpoke nothing againſt any perſon upon Oath, or otherwiſe by way of Ac<g ref="char:EOLhyphen"/>cuſation but what was true; and only complain'd that he had been two timerous, and rather leſſened his Evidence in ſome par<g ref="char:EOLhyphen"/>ticulars.</p>
+            <p>After ſome ſhort time the company were deſired to withdraw; and none being left with him but the Lord Chief Juſtice, Capt. <hi>Bedlow</hi>'s Wife, and the Judges Clerk; My Lord gave the ſaid Mr. <hi>Bedlow</hi> his Oath, and his Clerk took a pretty long Depoſition in Writing, the contents whereof are yet ſecret; only thus far we know he made Oath, that whatſoever he had declared to the King &amp; Council, and the Secret Committee, and at the ſeveral Tryals up<g ref="char:EOLhyphen"/>on Oath, were all true, upon the word of a dying man. He told the Judg he expected no Crown of Martyrdom for Lying as the Papiſts did, but what he ſaid was ſincerely true, as he was ſhortly to ap<g ref="char:EOLhyphen"/>pear before the Great <hi>Jehovah,</hi> the maker of all fleſh, where he ſhould ſtand with a clear Conſcience as to all matters of the Plot, wherein he had given Evidence He ſaid moreover to the Judg: My Lord! ſome will not believe the Plot, or pretend it at leaſt.! My Lord I ſpeak the more becauſe I know not but that I may dye this night: He very often ſaid to my Lord Chief Juſtice with great earneſt<g ref="char:EOLhyphen"/>neſs, My Lord! I pity the King! I pity the King! His Life is in danger! they will poyſon or Cut Him off! they are going towards it! they
+<pb n="3" facs="tcp:38010:2"/>
+               <!-- PDF PAGE 14 -->are Carrying on the Plot! the Papiſts will kill Him! When my Lord was going away, he called him back again, took him by the hand, and beg'd him to preſent his moſt humble Duty to the King, and to tell him he was His moſt Loyal and Dutiful Subject, and to beſeech him to take care of Himſelf.</p>
+            <p>
+               <hi>Tueſday</hi> the 17th of <hi>Auguſt</hi> towards the Evening, he appeared worſe then he had been all his ſickneſs before; ſome about him asked him ſeveral Queſtions about his Depoſition; he replyed, He was a very weak man, and would talk no more of Temporal things.</p>
+            <p>
+               <hi>Wedneſday</hi> night he had a ſevere Fit, through the violence of which, be ſpake not for the ſpace of 14 hours, or there about. <hi>Thurſday</hi> in the evening his ſpeech returned to him, and he took ſome refreſhment, and asked thoſe about him what day of the Month it was? and what hour of the Day, exactly? One ſtand<g ref="char:EOLhyphen"/>ing by, asked him if he were ſatisfied in his Conſcience as to what he had ſworn and acted in the publick buſineſs he had been invol<g ref="char:EOLhyphen"/>ed in? His Anſwer was, That as he hoped for Salvation, all that he had Sworn about the Plot was juſt and true, and that he had rather omitted, than augmented any thing he had given in Evidence. This he ſpoke the night before he dyed, and after he had been in a Trance ſeveral hours.</p>
+            <p>
+               <hi>Friday</hi> the 20th of <hi>Auguſt</hi> Inſtant, his Speech failed him again, and returned no more; and about Two of the Clock that after<g ref="char:EOLhyphen"/>noon he expired.</p>
+            <p>Yeſterday being <hi>Sunday,</hi> after he had been publickly expoſed in <hi>Merchant-Taylors</hi> Hall, in this City, to the vi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w of all ſpecta<g ref="char:EOLhyphen"/>tors; his Corps was carried thence about Six of the Clock in the Evening, and buried in the <hi>Mayors Chappel,</hi> called the <hi>Gaunts:</hi> the Funeral was attended with a very numerous Company of Citi<g ref="char:EOLhyphen"/>zens, both Men and Women. Mr. Mayor, and others of the beſt Quality being preſent, ſeveral Gentlemen of the Council, and others bearing up the Pall. The Church was hung with black. Mr. <hi>Palmer,</hi> a Reverend and Learned Divine of this City, Preached an excellent Sermon at his Funeral, on <hi>Rom.</hi> 14 <hi>v.</hi> 12, 13. <hi>So then every one of us ſhall give an account of himſelf to God, Let us not therefore judg one another any more, but judg this rather, that no man
+<pb n="4" facs="tcp:38010:3"/>
+                  <!-- PDF PAGE 15 -->put a ſtombling block, or an occaſion to fall in his brothers way.</hi> The were Eſcutcheons fixed to the Hearſe, with this Inſcription black Letters in a Field-Argent:
+<q>
+                  <l>Teſtimonium quod vivens Exhibuit</l>
+                  <l>Moriens conſtanter Obfirmava!</l>
+               </q>
+            </p>
+            <p>Thus you have a plain and juſt Relation of the Death and Buria<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Captain <hi>William Bedlow.</hi> The loſs of ſo conſiderable an Evi<g ref="char:EOLhyphen"/>dence to the King and Kingdom is greatly to be deplored: But if you revolve ſeriouſly upon the manner of his Death: and his exact tem<g ref="char:EOLhyphen"/>per and deportment through the whole ſeries of his ſickneſs, you'l find reaſon to believe, that  <hi>Sampſon</hi> like he hath Triumph'd even in Death, over the Popiſh Conſpirators, and been as formidable in his ſick bed, as formerly in the Courts of Juſtice; the ſtrong Aſſeverations he left behind him in vindication of his Evidence, hath rais'd it to the higheſt Reputation. It ſeemeth to me, as if Providence found it neceſſary in this ſtubborn and unbelieving age, to uſe extraordinary methods to evince the World of the truth of the Bloody and Helliſh Plot. And therefore to the clear and uncontroulable Evidence tha<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath been given <hi>viva voce,</hi> and by Original Letters under the Con<g ref="char:EOLhyphen"/>ſpirators own hands, God hath now ſuperadded one Argument mor<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to convince us, by making one of the Witneſſes ſeal the diſcover with his laſt breath, and dye, giving repeated Evidence againſt th<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Plot.  <hi>I</hi> am,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your humble Servant, T. S.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Reprinted.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
